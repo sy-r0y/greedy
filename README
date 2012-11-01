@@ -1,0 +1,5 @@
+
+
+
+A greedy algorithm based C program that takes a certain amount as input(the money 'owed'),
+and returns the 'minimum' number of coins that are needed to satisfy that.
